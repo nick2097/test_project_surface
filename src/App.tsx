@@ -13,6 +13,8 @@ function App() {
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
+        <p>This is my work for today</p>
+        <p>This is my job for you</p>
         <a
           className="App-link"
           href="https://reactjs.org"
