@@ -10,6 +10,7 @@ const root = ReactDOM.createRoot(
 root.render(
   <React.StrictMode>
     <App />
+      <p>This is quick repairing</p>
   </React.StrictMode>
 );
 
